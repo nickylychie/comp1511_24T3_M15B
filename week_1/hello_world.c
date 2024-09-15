@@ -5,7 +5,10 @@
 
 int main(void) {
     
-    printf("Hello world\n");
+    printf(" /\\___/\\\n");
+    printf("(=' w '=)\n");
+    
+
 
     return 0;
 }
